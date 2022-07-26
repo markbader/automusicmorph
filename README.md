@@ -21,7 +21,7 @@ Help:
 ----
 This will create and save ```f1.mid```, ```f2.mid```, ... ```f4.mid```. The keyframes ```f0.mid``` and ```f5.mid``` will not be modified (overwritten), but only if the framerate matches their filename.
 
-```python autoimagemorph.py -inframes "['f0.png','f5.png']" -outprefix f -framerate 5```
+```python automusicmorph.py -inframes "['f0.mid','f5.mid']" -outprefix f -framerate 5```
 
 ----
 
